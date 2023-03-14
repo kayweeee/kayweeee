@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 <h1>
   hi!
-  [meow_code](https://user-images.githubusercontent.com/90853438/225102331-f5d4a9f4-c796-4899-94fb-c41a24577e6e.gif)
 </h1>
 
