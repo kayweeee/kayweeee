@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1>
   hi!
-  <img src='https://slackmojis.com/emojis/10521-meow_code/download'/>
+  <img src='https://slackmojis.com/emojis/10521-meow_code/download' width='36px'/>
 </h1>
 
