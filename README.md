@@ -17,3 +17,6 @@ Here are some ideas to get you started:
   <img src='https://slackmojis.com/emojis/10521-meow_code/download' width='36px'/>
 </h1>
 
+i'm kay wee, and i'm currently studying Design and Artifical Intelligence at SUTD. i love all things design and problem solving, and mostly specialise in front-end development although i am looking to expand my knowledge and tap into backend soon. 
+
+peace out!
