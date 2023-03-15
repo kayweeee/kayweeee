@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1>
   hi!
+  <img src='https://slackmojis.com/emojis/3493-hot-coffee/download'/>
 </h1>
 
